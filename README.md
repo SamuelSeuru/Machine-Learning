@@ -37,8 +37,8 @@ This indicates that the project falls under supervised learning, where the model
 -	Bonus: comprehend deeper which feature influences the most the predictions made for cancelling.
 
 Therefore, in this repository, you will find: 
-- a sample of the dataset (in data_sample)
-- the notebook with the complete methodology adopted (in results_notebook)
-- a short powerpoint for presentation & discussion (in p&d powerpoint)
+- a sample of the dataset (in the folder 'data_sample')
+- the notebook with the complete methodology adopted (in the folder  'results_notebook')
+- a short pdf for presentation & discussion (in the folder 'p&d pdf')
 
 
