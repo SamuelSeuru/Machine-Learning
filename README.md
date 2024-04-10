@@ -36,5 +36,9 @@ This indicates that the project falls under supervised learning, where the model
 -	Model Performance: accuracy, precision, recall, F1-score. 
 -	Bonus: comprehend deeper which feature influences the most the predictions made for cancelling.
 
+Therefore, in this repository, you will find: 
+- a sample of the dataset,
+- the notebook with the complete methodology adopted
+- a short ppt for presentation & discussion.
 
 
