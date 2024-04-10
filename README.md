@@ -3,7 +3,8 @@
 
 I have witnessed firsthand the constant stream of guests checking in and out, each reservation adding to the vibrant rhythm of our establishment. Yet, amidst the flurry of activity, there is a persistent challenge that weighs heavily on our operations - the uncertainty of cancellations. And that, for me, means P R E D I C T I O N.
 
-Every day, I see rooms left vacant due to last-minute cancellations, leaving us scrambling to fill the void and manage our resources effectively. Determined to make a difference, I have taken on the role of a data scientist (because I am one) leveraging my analytical skills to help our hotel thrive (the best I can, obviously).
+**Every day, I see rooms left vacant due to last-minute cancellations, leaving us scrambling to fill the void and manage our resources effectively.**
+ Determined to make a difference, I have taken on the role of a data scientist (because I am one) leveraging my analytical skills to help our hotel thrive (the best I can, obviously).
 
 With a keen eye for patterns and a passion for problem-solving, I have delved into our hypothetical booking data, uncovering insights that hold the potential to transform our approach. Armed with the tools of supervised machine learning, I am building a classification model tailored to predict the likelihood of a booking being canceled.
 
