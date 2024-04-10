@@ -39,6 +39,6 @@ This indicates that the project falls under supervised learning, where the model
 Therefore, in this repository, you will find: 
 - a sample of the dataset (in the folder 'data_sample')
 - the notebook with the complete methodology adopted (in the folder  'results_notebook')
-- a short pdf for presentation & discussion (in the folder 'p&d pdf')
+- Slides + powerpoint for presentation & discussion (in the folder 'p&d')
 
 
