@@ -7,17 +7,14 @@ I have witnessed firsthand the constant stream of guests checking in and out, ea
 **Every day, I see rooms left vacant due to last-minute cancellations, leaving us scrambling to fill the void and manage our resources effectively.**
  Determined to make a difference, I have taken on the role of a data scientist (because I am one) leveraging my analytical skills to help our hotel thrive (the best I can, obviously).
 
-With a keen eye for patterns and a passion for problem-solving, I have delved into a public booking data downloaded from Kaggle, which can be find here:
+With a keen eye for patterns and a passion for problem-solving, I have delved into a public booking dataset downloaded from Kaggle, which can be find here:
 https://www.kaggle.com/datasets/arezaei81/hotel-bookingcvs
 
 
 Countries, number of bookings and special requests - these are just a few of the variables I am scrutinizing, each offering valuable clues that could inform our predictive model. By harnessing the power of data, I am determined to empower our team with the foresight needed to anticipate cancellations and mitigate their impact on our business.
-
 As a receptionist-turned-data-scientist, I am driven by a dual purpose - to provide exceptional service to our guests while also helping our hotel thrive in an ever-changing landscape. With each step forward, I am excited to see the impact of data-driven decision-making on our operations, paving the way for a brighter future for our hotel.
 
-Armed with the tools of supervised machine learning, I am building a model tailored to predict the likelihood of a booking being canceled. In this project, I will be working with a dataset where the target variable, 'is_canceled,' has already been labeled.
-
-This indicates that the project falls under supervised learning, where the model learns from labeled data. The task at hand is a classification problem, as the objective is to predict whether a booking will be canceled or not.
+Armed with the tools of supervised machine learning, I am building a model tailored to predict the likelihood of a booking being canceled. In this project, I will be working with a dataset where the target variable, 'is_canceled,' has already been labeled. This indicates that the project falls under supervised learning, where the model learns from labeled data. The task at hand is a classification problem, as the objective is to predict whether a booking will be canceled or not.
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
